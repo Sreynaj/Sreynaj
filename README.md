@@ -5,7 +5,7 @@
 
 **My Journey**
 - 🎓 I am majoring in ITE-Technology Information Engineering at [Royal University of Phnom Penh, Cambodia](http://www.rupp.edu.kh/). 
-- 🔭 I’m currently learning at Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
+- 🔭 I’m currently doing Higher Diplomation Software Development at [E2stem education, Cambodia](https://e2stem.org.kh/).
 
 <details>
   <summary>⏳ My mission</summary>
