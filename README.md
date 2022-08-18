@@ -1,6 +1,6 @@
  💫 About Me :
 - 🌱 I am learning: Python,C,C++,C#,HTML,CSS,Java Script.
-- 👯 I’m looking for a mentor to help me in software engineering.
+- 👩🏻‍💻 I’m looking for a mentor to help me in software engineering.
 - 📫 How to reach me: **kebsreynaj2@gmail.com**
 
 **My Journey**
